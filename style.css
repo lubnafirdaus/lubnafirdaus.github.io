@@ -230,9 +230,11 @@ h2::after {
     display: none;
   }
 
-  h1 {
-    font-size: 2.2rem;
-  }
+ .typing {
+    font-size: 2.3rem;
+ }
+
+
 
   h2 {
     font-size: 1.8rem;
@@ -250,6 +252,10 @@ h2::after {
   #skills .icons {
     font-size: 25px;
   }
+
+  .my-button-prev, .my-button-next {
+    display: none;
+}
 
 
 }
